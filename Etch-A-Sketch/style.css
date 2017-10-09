@@ -1,0 +1,23 @@
+
+#container {
+	border: 1px solid black;
+	height: 500px;
+	width: 500px;
+	margin: 0 auto;
+
+}
+
+
+.row {
+	background-color: yellow;
+	height: 50px;
+	width:50px;
+	
+}
+
+.gridBoxes {
+	color:red;
+	height:  50px;
+	width:50px;
+	]
+}
